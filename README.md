@@ -1,5 +1,4 @@
 ![logo](https://github.com/DhimanMajumdar/DhimanMajumdar/blob/main/my%20llinkedin%20banner.png)
-
 <h1 align="center">Hi 👋, I'm Dhiman Majumdar</h1>
 
 <p align="center">
@@ -30,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/dhiman_07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/QnlR2GDnsf3xBAqiYCrUL1-lrzukagxukKmtuYxFp08/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vTFFXRkQy/Y21HYVNWM3JZRUVP/U2c5dzZCN3Nzd0ZT/UVhqNGQtel93R243/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl6/ZEhscy9aWE11Y21W/a1pHbDBiV1ZrL2FX/RXVZMjl0TDNRMVh6/TnQvYkdkaEwzTjBl/V3hsY3k5ai9iMjF0/ZFc1cGRIbEpZMjl1/L1h6Z3habWRrY1da/emJtSjMvT1RFdWNH/NW4.jpeg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
@@ -62,12 +61,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhimanmajumdar&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://github.com/DhimanMajumdar/DhimanMajumdar/blob/output/snake.svg" alt="Snake animation" />
 </p>
