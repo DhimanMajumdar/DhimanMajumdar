@@ -28,14 +28,8 @@
   <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/csaiml_1530065" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
-  </a>
   <a href="https://leetcode.com/dhiman_07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/dhimanmajumdar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GeeksforGeeks" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
