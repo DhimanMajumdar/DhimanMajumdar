@@ -1,16 +1,70 @@
-## Hi there 👋
+![logo](https://github.com/DhimanMajumdar/DhimanMajumdar/blob/main/my%20llinkedin%20banner.png)
+<h1 align="center">Hi 👋, I'm Dhiman Majumdar</h1>
 
-<!--
-**DhimanMajumdar/DhimanMajumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **MERN Stack, NEXT.js**
+- 👨‍💻 All of my projects are available at: [Portfolio](https://my-portfolio-ashen-two-84.vercel.app)
+- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js**
+- 📫 Reach me at **dhimanmajumdar08233@gmail.com**
+- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1t537urQiP1vznJWbovNRazIHYnEP1R0a/view?usp=sharing)
+- ⚡ Fun fact: _**My CSS bugs fear me more than I fear them. Mostly.**_
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/csaiml_1530065" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/dhiman_07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/dhimanmajumdar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,html,css,tailwind,mongodb,mysql,java,python,redux,git,github,aws,firebase" alt="Skills" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhimanmajumdar&theme=darkhub&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhimanmajumdar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhimanmajumdar&theme=tokyonight" alt="GitHub Streak" />
+</p>
