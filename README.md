@@ -17,7 +17,6 @@
 - 👨‍💻 All of my projects are available at: [Portfolio](https://my-portfolio-ashen-two-84.vercel.app)
 - 💬 Ask me about **React.js, JavaScript, Node.js, Express.js**
 - 📫 Reach me at **dhimanmajumdar08233@gmail.com**
-- 📄 My Resume: [View Resume](https://drive.google.com/file/d/1t537urQiP1vznJWbovNRazIHYnEP1R0a/view?usp=sharing)
 - ⚡ Fun fact: _**My CSS bugs fear me more than I fear them. Mostly.**_
 
 ---
