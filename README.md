@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhiman Majumdar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%7C+JavaScript+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%7C+GenerativeAI+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
