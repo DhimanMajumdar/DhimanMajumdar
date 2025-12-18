@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **MERN Stack, NEXT.js**
-- 👨‍💻 All of my projects are available at: [Portfolio](https://my-portfolio-ashen-two-84.vercel.app)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://dhiman-dev.vercel.app/)
 - 💬 Ask me about **React.js, JavaScript, Node.js, Express.js**
 - 📫 Reach me at **dhimanmajumdar08233@gmail.com**
 - ⚡ Fun fact: _**My CSS bugs fear me more than I fear them. Mostly.**_
@@ -37,7 +37,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,html,css,tailwind,mongodb,mysql,java,python,redux,git,github,aws,firebase" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,html,css,tailwind,mongodb,mysql,java,python,redux,git,github,aws,firebase,python,langchain,langgraph,ollama" alt="Skills" />
 </p>
 
 ---
