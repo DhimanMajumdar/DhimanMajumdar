@@ -1,4 +1,7 @@
-![logo](https://github.com/DhimanMajumdar/DhimanMajumdar/blob/main/%20llinkedin%20banner.png)
+<p align="center">
+  <img src="https://github.com/DhimanMajumdar/DhimanMajumdar/blob/main/banner.png?raw=true" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhiman Majumdar</h1>
 
 <p align="center">
