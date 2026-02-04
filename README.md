@@ -16,9 +16,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **MERN Stack, NEXT.js**
+- 🌱 I’m currently learning **MERN Stack, NEXT.js, GenAI and Agentic AI**
 - 👨‍💻 All of my projects are available at: [Portfolio](https://dhiman-dev.vercel.app/)
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js**
+- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, LLMs, LangChain, RAG, Langgraph, AI-Agents**
 - 📫 Reach me at **dhimanmajumdar08233@gmail.com**
 - ⚡ Fun fact: _**My CSS bugs fear me more than I fear them. Mostly.**_
 
