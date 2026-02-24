@@ -1,79 +1,79 @@
-<!-- ======================= BANNER ======================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhiman%20Majumdar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhiman%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+  <h3 align="center">🚀 Full Stack Developer | Generative & Agentic AI | Problem Solver</h3>
 
-<h3 align="center">🚀 Full Stack Developer | Generative + Agentic AI | Problem Solver</h3>
+  <p align="center">
+    <a href="https://github.com/dhimanmajumdar">
+      <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/dhimanmajumdar?tab=followers">
+      <img src="https://img.shields.io/github/followers/dhimanmajumdar?label=Followers&style=for-the-badge&color=203a43" alt="Followers" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/dhimanmajumdar?label=Followers&style=for-the-badge" />
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dhimanmajumdar08233@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (2022–2026)
-- 🌱 Exploring **MERN, Next.js, TypeScript & Agentic AI**
-- 🤖 Building AI-powered real-world products
-- ⚡ Fun fact: *My CSS bugs fear me. Sometimes.*
+- 🎓 Pursuing **B.Tech in Computer Science** (2022–2026) at PSIT Kanpur.
+- 🧠 Building real-world AI products with **MERN, Next.js, FastAPI, and Agentic workflows**.
+- 💡 Passionate about data engineering and integrating LLMs into robust full-stack applications.
+- 🏆 Dedicated problem solver with **600+ problems solved on LeetCode**.
+- ⚡ Fun fact: When I'm not debugging, I'm likely strategizing my next match in eFootball or cheering for Cristiano Ronaldo.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-  </a>
-  <a href="mailto:dhimanmajumdar08233@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-  </a>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **DevFusion** | A full-stack developer-matching platform with real-time features. | React, Node.js, MongoDB, WebSockets, AWS |
+| **EmPath AI** | A mental health therapist chatbot leveraging advanced LLMs. | FastAPI, Streamlit, GPT-4, Ollama, Twilio |
+| **LexiFetch** | A RAG-based AI chatbot designed for intelligent PDF querying. | LangChain, Agentic AI, Python |
+| **DealSpy** | A price-tracking web application utilizing advanced web scraping. | Next.js, Supabase, Firecrawl |
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
-</p>
+<div align="center">
+  <h3>💻 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" alt="Frontend Tech" />
+  
+  <h3>🖥 Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,fastapi,aws" alt="Backend Tech" />
 
-## 🖥 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
-</p>
-
-## 🤖 AI & Tools
-<p>
-  <!-- Custom AI Icons -->
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge"/>
-</p>
+  <h3>🤖 AI & Architecture</h3>
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF8C00?style=for-the-badge" alt="Agentic AI" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub & Coding Stats
 
-
----
-
-## 🧠 Currently Learning
-
-- Agentic AI Systems  
-- Next.js  
-- System Design  
-- Advanced DSA Patterns  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Stats" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer Banner" />
+</div>
