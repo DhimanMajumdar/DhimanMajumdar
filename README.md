@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhiman%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | React.js | Generative AI | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Generative + Agentic AI | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -49,11 +49,11 @@
 
 ## 🤖 AI & Tools
 <p>
-  <!-- Custom AI Icons (since skillicons doesn’t support them) -->
+  <!-- Custom AI Icons -->
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge"/>
+</p>>
 
 ---
 
