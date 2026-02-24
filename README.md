@@ -7,12 +7,8 @@
 <h3 align="center">🚀 Full Stack Developer | React.js | Generative AI | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/dhimanmajumdar">
-    <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=blue&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/dhimanmajumdar?tab=followers">
-    <img src="https://img.shields.io/github/followers/dhimanmajumdar?label=Followers&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dhimanmajumdar?label=Followers&style=for-the-badge" />
 </p>
 
 ---
@@ -20,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (2022–2026)
-- 🌱 Currently mastering **MERN, Next.js, TypeScript & Agentic AI**
+- 🌱 Exploring **MERN, Next.js, TypeScript & Agentic AI**
 - 🤖 Building AI-powered real-world products
 - ⚡ Fun fact: *My CSS bugs fear me. Sometimes.*
 
@@ -30,45 +26,49 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   <a href="mailto:dhimanmajumdar08233@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-  <a href="https://leetcode.com/dhiman_07">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Frontend
+## 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,zustand" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux" />
 </p>
 
-### 🖥️ Backend
+## 🖥 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
 </p>
 
-### 🤖 AI / Tools
+## 🤖 AI & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,langchain,langgraph,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,firebase" />
+</p>
+
+<p>
+  <!-- Custom AI Icons (since skillicons doesn’t support them) -->
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhimanmajumdar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -80,9 +80,9 @@
 ## 🧠 Currently Learning
 
 - Agentic AI Systems  
-- LangGraph & Multi-Agent Workflows  
-- System Design Fundamentals  
-- Next.js
+- Next.js  
+- System Design  
+- Advanced DSA Patterns  
 
 ---
 
