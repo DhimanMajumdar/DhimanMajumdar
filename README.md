@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge"/>
-</p>>
+</p>
 
 ---
 
