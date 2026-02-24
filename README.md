@@ -1,66 +1,91 @@
+<!-- ======================= BANNER ======================= -->
+
 <p align="center">
-  <img src="https://github.com/DhimanMajumdar/DhimanMajumdar/blob/main/banner.jpg?raw=true" alt="Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhiman%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhiman Majumdar</h1>
+<h3 align="center">🚀 Full Stack Developer | React.js | Generative AI | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%7C+GenerativeAI+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning **MERN Stack, NEXT.js, GenAI and Agentic AI**
-- 👨‍💻 All of my projects are available at: [Portfolio](https://dhiman-dev.vercel.app/)
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, LLMs, LangChain, RAG, Langgraph, AI-Agents**
-- 📫 Reach me at **dhimanmajumdar08233@gmail.com**
-- ⚡ Fun fact: _**My CSS bugs fear me more than I fear them. Mostly.**_
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://github.com/dhimanmajumdar">
+    <img src="https://komarev.com/ghpvc/?username=dhimanmajumdar&label=Profile%20Views&color=blue&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/dhiman_07" target="_blank">
-    <img src="https://imgs.search.brave.com/QnlR2GDnsf3xBAqiYCrUL1-lrzukagxukKmtuYxFp08/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vTFFXRkQy/Y21HYVNWM3JZRUVP/U2c5dzZCN3Nzd0ZT/UVhqNGQtel93R243/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl6/ZEhscy9aWE11Y21W/a1pHbDBiV1ZrL2FX/RXVZMjl0TDNRMVh6/TnQvYkdkaEwzTjBl/V3hsY3k5ai9iMjF0/ZFc1cGRIbEpZMjl1/L1h6Z3habWRrY1da/emJtSjMvT1RFdWNH/NW4.jpeg" alt="LeetCode" width="40" height="40"/>
+  <a href="https://github.com/dhimanmajumdar?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhimanmajumdar?label=Followers&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (2022–2026)
+- 🌱 Currently mastering **MERN, Next.js, TypeScript & Agentic AI**
+- 🤖 Building AI-powered real-world products
+- ⚡ Fun fact: *My CSS bugs fear me. Sometimes.*
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,html,css,tailwind,mongodb,mysql,java,python,redux,git,github,aws,firebase,python,langchain,langgraph,ollama" alt="Skills" />
+  <a href="https://linkedin.com/in/dhiman-majumdar-09a3a423a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:dhimanmajumdar08233@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  <a href="https://leetcode.com/dhiman_07">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhimanmajumdar&theme=darkhub&row=1&column=7" alt="Trophies" />
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,zustand" />
+</p>
+
+### 🖥️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+</p>
+
+### 🤖 AI / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,langchain,langgraph,aws,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhimanmajumdar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhimanmajumdar&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhimanmajumdar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimanmajumdar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Agentic AI Systems  
+- LangGraph & Multi-Agent Workflows  
+- System Design Fundamentals  
+- Next.js
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
