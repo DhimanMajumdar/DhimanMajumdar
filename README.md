@@ -49,10 +49,6 @@
 
 ## 🤖 AI & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,aws,git,github,firebase" />
-</p>
-
-<p>
   <!-- Custom AI Icons (since skillicons doesn’t support them) -->
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
