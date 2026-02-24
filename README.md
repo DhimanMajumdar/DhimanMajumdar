@@ -67,9 +67,7 @@
 ## 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
