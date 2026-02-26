@@ -27,21 +27,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science** (2022–2026) at PSIT Kanpur.
-- 🧠 Building real-world AI products with **MERN, Next.js, FastAPI, and Agentic workflows**.
+- 🧠 Building real-world AI products with **MERN, Next.js, and GenAI and AgenticAI**.
 - 💡 Passionate about data engineering and integrating LLMs into robust full-stack applications.
 - 🏆 Dedicated problem solver with **600+ problems solved on LeetCode**.
 - ⚡ Fun fact: When I'm not debugging, I'm likely strategizing my next match in eFootball or cheering for Cristiano Ronaldo.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DevFusion** | A full-stack developer-matching platform with real-time features. | React, Node.js, MongoDB, WebSockets, AWS |
-| **EmPath AI** | A mental health therapist chatbot leveraging advanced LLMs. | FastAPI, Streamlit, GPT-4, Ollama, Twilio |
-| **LexiFetch** | A RAG-based AI chatbot designed for intelligent PDF querying. | LangChain, Agentic AI, Python |
-| **DealSpy** | A price-tracking web application utilizing advanced web scraping. | Next.js, Supabase, Firecrawl |
 
 ---
 
