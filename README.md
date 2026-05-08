@@ -34,13 +34,13 @@
 ```typescript
 const dhiman = {
     currentRole: "SDE Intern @ Hummingbird Web Solutions",
-    education: "B.Tech in Computer Science | PSIT Kanpur (2022-2026)",
-    passion: ["Building AI Products", "Full Stack Development", "Data Engineering"],
+    education: "B.Tech in Computer Science Engineering | PSIT Kanpur (2022-2026)",
+    passion: ["Building AI Products", "Full Stack Development"],
     expertise: ["MERN Stack", "Next.js", "GenAI", "Agentic AI", "LLM Integration"],
-    achievements: "600+ Problems Solved on LeetCode",
+    achievements: "700+ Problems Solved on LeetCode",
     hobbies: ["eFootball", "Watching Football", "Coding Challenges"],
     idol: "Cristiano Ronaldo ⚽",
-    currentlyLearning: ["Advanced AI Architectures", "System Design", "Cloud Technologies"],
+    currentlyLearning: ["System Design", "Springboot", "LLD", "HLD"],
     funFact: "When I'm not debugging, I'm strategizing my next match in eFootball! 🎮"
 };
 ```
