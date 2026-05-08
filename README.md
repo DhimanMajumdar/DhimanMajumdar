@@ -76,16 +76,6 @@ const dhiman = {
 ### ☁️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,vscode,linux" alt="DevOps Tools" />
 
-### 🎨 Design & Collaboration
-<img src="https://skillicons.dev/icons?i=figma,notion" alt="Design Tools" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-
-### 📊 Data & Analytics
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -119,7 +109,7 @@ const dhiman = {
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-600+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Problems_Solved-700+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
   <img src="https://img.shields.io/badge/Rank-Improving-orange?style=for-the-badge&logo=leetcode" alt="Rank" />
 </div>
 
@@ -150,15 +140,6 @@ mindmap
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![AI Project](https://github-readme-stats.vercel.app/api/pin/?username=dhimanmajumdar&repo=ai-project&theme=tokyonight&hide_border=true)](https://github.com/dhimanmajumdar/ai-project)
-[![MERN App](https://github-readme-stats.vercel.app/api/pin/?username=dhimanmajumdar&repo=mern-app&theme=tokyonight&hide_border=true)](https://github.com/dhimanmajumdar/mern-app)
-
-</div>
 
 > **Note:** Replace the repo names above with your actual repository names
 
