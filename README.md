@@ -128,14 +128,12 @@ mindmap
       Generative AI
       Agentic AI Systems
       RAG Implementations
-      LLM Fine-tuning
     Professional Growth
       SDE Internship
       Building Products
     Problem Solving
       LeetCode Daily
       DSA Mastery
-      Competitive Programming
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
