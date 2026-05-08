@@ -88,7 +88,7 @@ const dhiman = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimanmajumdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=dhimanmajumdar&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
@@ -105,12 +105,11 @@ const dhiman = {
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcode.com/u/Dhiman_07/?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Dhiman_07&theme=dark" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Problems_Solved-700+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
-  <img src="https://img.shields.io/badge/Rank-Improving-orange?style=for-the-badge&logo=leetcode" alt="Rank" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
