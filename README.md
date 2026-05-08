@@ -83,15 +83,14 @@ const dhiman = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=dhimanmajumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Using the Shion Mirror for better uptime -->
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=dhimanmajumdar&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <!-- Fixed the username typo (dhimanmajumdar) -->
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhimanmajumdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
