@@ -105,7 +105,7 @@ const dhiman = {
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/dhimanmajumdar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcode.com/u/Dhiman_07/?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
@@ -132,24 +132,11 @@ mindmap
     Professional Growth
       SDE Internship
       Building Products
-      Open Source
     Problem Solving
       LeetCode Daily
       DSA Mastery
       Competitive Programming
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-> **Note:** Replace the repo names above with your actual repository names
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -159,8 +146,7 @@ mindmap
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiman-majumdar-09a3a423a)
   [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanmajumdar08233@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhiman-dev.vercel.app/)
   
 </div>
 
