@@ -105,14 +105,16 @@ const dhiman = {
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Dhiman_07&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Dhiman_07?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Problems_Solved-700+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Rank-Improving-orange?style=for-the-badge&logo=leetcode" alt="Rank" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🎯 Current Focus
 
