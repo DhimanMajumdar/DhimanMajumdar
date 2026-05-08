@@ -21,7 +21,7 @@
     <a href="mailto:dhimanmajumdar08233@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://leetcode.com/dhimanmajumdar">
+    <a href="https://leetcode.com/dhiman_07">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
   </p>
