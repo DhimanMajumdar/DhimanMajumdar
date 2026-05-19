@@ -108,7 +108,7 @@ const dhiman = {
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-700+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Problems_Solved-800+-brightgreen?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
   <img src="https://img.shields.io/badge/Rank-Improving-orange?style=for-the-badge&logo=leetcode" alt="Rank" />
 </div>
 
