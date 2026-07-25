@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhiman%20Majumdar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
   
-  <h3>🚀 Full Stack Developer | Generative & Agentic AI | Problem Solver</h3>
-  <h4>💼 SDE Intern @ Hummingbird Web Solutions</h4>
+  <h3>Full Stack Developer &nbsp;|&nbsp; Generative & Agentic AI &nbsp;|&nbsp; Problem Solver</h3>
+  <h4>Ex SDE Intern @ Hummingbird Web Solutions &nbsp;|&nbsp; Open to Opportunities</h4>
   
   <p>
     <a href="https://github.com/dhimanmajumdar">
@@ -24,41 +24,42 @@
     <a href="https://leetcode.com/dhiman_07">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
+    <a href="https://dhiman-dev.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const dhiman = {
-    currentRole: "SDE Intern @ Hummingbird Web Solutions",
-    education: "B.Tech in Computer Science Engineering | PSIT Kanpur (2022-2026)",
-    passion: ["Building AI Products", "Full Stack Development"],
-    expertise: ["MERN Stack", "Next.js", "GenAI", "Agentic AI", "LLM Integration"],
-    achievements: "700+ Problems Solved on LeetCode",
-    hobbies: ["eFootball", "Watching Football", "Coding Challenges"],
-    idol: "Cristiano Ronaldo ⚽",
-    currentlyLearning: ["System Design", "Springboot", "LLD", "HLD"],
-    funFact: "When I'm not debugging, I'm strategizing my next match in eFootball! 🎮"
+    experience:        "Ex SDE Intern @ Hummingbird Web Solutions",
+    education:         "B.Tech in Computer Science Engineering | PSIT Kanpur (2022–2026)",
+    expertise:         ["MERN Stack", "Next.js", "GenAI", "Agentic AI", "LLM Integration"],
+    currentlyLearning: ["System Design", "LLD", "HLD", "Spring Boot"],
+    problemSolving:    "800+ Problems Solved on LeetCode",
+    passion:           ["Building AI-powered products", "Full Stack Development"],
+    hobbies:           ["eFootball", "Watching Football", "Coding Challenges"],
+    funFact:           "When I'm not debugging, I'm strategizing my next match in eFootball!"
 };
 ```
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Frontend Development
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite" alt="Frontend Tech" />
 
-### 🖥 Backend & Database
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,supabase,fastapi,redis" alt="Backend Tech" />
 
-### 🤖 AI & Architecture
+### AI & ML
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG" />
@@ -66,27 +67,23 @@ const dhiman = {
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,vscode,linux" alt="DevOps Tools" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <!-- Using the Shion Mirror for better uptime -->
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=dhimanmajumdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <!-- Fixed the username typo (dhimanmajumdar) -->
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhimanmajumdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhimanmajumdar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -94,7 +91,7 @@ const dhiman = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Dhiman_07?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
@@ -107,8 +104,7 @@ const dhiman = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🎯 Current Focus
+## Current Focus
 
 ```mermaid
 mindmap
@@ -122,7 +118,7 @@ mindmap
       Agentic AI Systems
       RAG Implementations
     Professional Growth
-      SDE Internship
+      Open to SDE Roles
       Building Products
     Problem Solving
       LeetCode Daily
@@ -131,19 +127,19 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiman-majumdar-09a3a423a)
-  [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanmajumdar08233@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhiman-dev.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiman-majumdar-09a3a423a)
+  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanmajumdar08233@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhiman-dev.vercel.app/)
   
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Quote of the Day
+## Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -151,7 +147,7 @@ mindmap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -164,7 +160,7 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+for+collaboration!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Thanks+for+visiting!" alt="Typing SVG" />
 </div>
 
 <div align="center">
